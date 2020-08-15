@@ -1,1 +1,1 @@
-Exemplos from scratch de funções em python
+Interesting ML codes from scratch in Python
